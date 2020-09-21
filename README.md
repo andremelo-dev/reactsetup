@@ -1,4 +1,4 @@
-#SETUP para startar projetos
+# SETUP para startar projetos
 
 utilizando tecnologias:
 
